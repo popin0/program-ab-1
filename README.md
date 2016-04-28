@@ -34,4 +34,4 @@ Chat with the bot
 
 Use the method multisentenceResponse to get the bot's replies to multiple-sentence (one or more sentence) inputs:
 
-String request = "Hello. Are you alive? What is your name?" String response = chatSession.multisentenceRespond(request); System.out.println(response);
+```String request = "Hello. Are you alive? What is your name?" String response = chatSession.multisentenceRespond(request); System.out.println(response);```
